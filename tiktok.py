@@ -1,0 +1,1 @@
+from TikTokApi import TikTokApi as tiktok #tiktokapi unofficial from github
